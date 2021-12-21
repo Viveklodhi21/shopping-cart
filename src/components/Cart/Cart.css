@@ -1,0 +1,15 @@
+
+.Cart-main{
+display:flex;
+background-color: cadetblue;
+/* height:130px;*/
+min-height: 130px;
+
+justify-content: space-between;
+}
+
+.Cart-first{
+    margin: 2px solid rgb(231, 29, 29);
+    width: 50%;
+    height:70px;
+}

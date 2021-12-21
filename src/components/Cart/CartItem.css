@@ -1,0 +1,22 @@
+.cart-item{
+display: flex;
+    width:70%;
+
+
+}
+.cart-item-image{
+    width:100px;
+    height:100px;
+float:left;
+}
+.show-qty{
+    width: 44px;
+}
+.btn-qty{
+    margin-top: 10px;
+    }
+.item_desc{
+    font-size:smaller;
+    width:200px;
+    height:200px;
+}

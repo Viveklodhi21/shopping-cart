@@ -1,0 +1,17 @@
+.Navbar{
+    border: 1px solid red;
+    display: flex;
+    padding: 10px;
+background-color: skyblue;
+justify-content: space-between;
+}
+
+.Navbar-2{
+    
+    display: flex;
+ float:right;
+ border: 3px solid green;
+}
+.Cart-title{
+    border: 3px solid yellow;
+}
